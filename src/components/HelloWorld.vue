@@ -34,7 +34,6 @@
 
 <script>
 import sourceData from '@/data.json'
-console.log('sourceData', sourceData)
 
 export default {
   name: 'HelloWorld',
